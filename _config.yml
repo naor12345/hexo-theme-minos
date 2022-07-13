@@ -26,7 +26,7 @@ article:
 # Navigation bar menu links.
 menu:
   Archives: /archives
-  Lifestyle: /categories/LifeStyle
+  Code: /code
   Music: /categories/Music
   Technology: /categories/Technology
   About: /about
@@ -36,7 +36,7 @@ search:
   type: insight
 
 # Navigation bar toc settings
-toc: true
+toc: false
 
 # Share plugin settings.
 share:
