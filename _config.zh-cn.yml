@@ -4,7 +4,6 @@ favicon: /favicon.png
 # Navigation bar menu links.
 menu:
   文章: /zh-cn/archives
-  项目: /zh-cn/code
-  Music: /zh-cn/categories/Music
-  Technology: /zh-cn/categories/Technology
+  分类: /zh-cn/categories
+  标签: /zh-cn/tags
   关于: /zh-cn/about

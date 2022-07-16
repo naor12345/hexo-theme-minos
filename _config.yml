@@ -26,9 +26,8 @@ article:
 # Navigation bar menu links.
 menu:
   Archives: /archives
-  Code: /code
-  Music: /categories/Music
-  Technology: /categories/Technology
+  Categories: /categories
+  Tags: /tags
   About: /about
 
 # Search plugin settings.
